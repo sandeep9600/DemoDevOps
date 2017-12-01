@@ -8,6 +8,9 @@
 </head>
 <body>
 <h1>DEVOPS TEST 2</h1>
-
+<input />
+<input type="password"/>
+<input type="submit" value="submit"/>
+    <a href="www.google.com">Go to www.google.com</a>
 </body>
 </html>
